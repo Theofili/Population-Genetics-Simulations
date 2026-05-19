@@ -196,7 +196,7 @@ visualization(df_expected, df_observed)
 ```
 
 ## 3.1.2 Output Exapmle 1:
-![Example 1 Plot Output](<output example1.png>)
+![Example 1 Plot Output](<PGS/output example1.png.png>)
 
 **Figure 1**: #TODO
 
@@ -265,11 +265,11 @@ visualization_multiple(df_observed)
 ```
 
 ## 3.2.2 Output Exapmle 2:
-![Example 2 Plot Output(a)](<output example2a.png>)
+![Example 2 Plot Output(a)](<PGS/output example2a.png>)
 
 **Figure 2**: #TODO
 
-![Example 2 Plot Output(b)](<output example2b.png>)
+![Example 2 Plot Output(b)](<PGS/output example2b.png>)
 
 **Figure 3**: #TODO 
 
@@ -307,7 +307,7 @@ complete_df = visualization_formulas(
 ```
 
 ## 3.3.2 Output Exapmle 3:
-![Example 3 Plot Output](<output example3.png>)
+![Example 3 Plot Output](<PGS/output example3.png>)
 
 **Figure 4**: #TODO
 
