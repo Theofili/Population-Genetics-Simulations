@@ -1,0 +1,14 @@
+
+# This is a TOML file
+
+
+
+[project]
+name = "Population Genetics Simulations"
+vesrion = "1.0.0"
+description "Functions to simulate genetic data used to model the allelic dropout phenomenon" 
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["src"]
