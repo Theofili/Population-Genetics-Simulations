@@ -196,7 +196,7 @@ visualization(df_expected, df_observed)
 ```
 
 ## 3.1.2 Output Exapmle 1:
-![Example 1 Plot Output](<PGS/output example1.png.png>)
+![Example 1 Plot Output](<PGS/output example1.png>)
 
 **Figure 1**: #TODO
 
